@@ -1,1 +1,1 @@
-# Code-Commintments
+# Code-Commitments
