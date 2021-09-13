@@ -7,3 +7,5 @@
 -[Monotonic Array](https://leetcode.com/problems/monotonic-array/submissions/)
 ### 13/9/21
 -Implementing a Stack as an array
+### 14/9/21
+-[Concatenate Array](https://leetcode.com/problems/concatenation-of-array/submissions/)
