@@ -5,3 +5,5 @@
 -Insert element at a position in array
 
 -[Monotonic Array](https://leetcode.com/problems/monotonic-array/submissions/)
+### 13/9/21
+-Implementing a Stack as an array
