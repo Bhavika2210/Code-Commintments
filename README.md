@@ -11,3 +11,5 @@
 -[Concatenate Array](https://leetcode.com/problems/concatenation-of-array/submissions/)
 ### 15/9/21
 -Spotify Analysis
+-Income Analysis
+
